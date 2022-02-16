@@ -60,7 +60,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -401,19 +400,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Forest_deco_woodenThorns_0: 21300000
-      Forest_deco_woodenThorns_6: 21300012
-      Forest_deco_woodenThorns_10: 21300020
-      Forest_deco_woodenThorns_9: 21300018
-      Forest_deco_woodenThorns_7: 21300014
-      Forest_deco_woodenThorns_5: 21300010
-      Forest_deco_woodenThorns_8: 21300016
-      Forest_deco_woodenThorns_2: 21300004
-      Forest_deco_woodenThorns_4: 21300008
-      Forest_deco_woodenThorns_3: 21300006
-      Forest_deco_woodenThorns_1: 21300002
-      Forest_deco_woodenThorns_11: 21300022
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
