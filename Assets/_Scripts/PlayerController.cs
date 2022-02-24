@@ -10,10 +10,13 @@ public class PlayerController : MonoBehaviour
     public int jumpForce = 4;
 
     public bool isGrounded = false;
+    public bool isRight = true;
 
     public LayerMask Ground;
 
     public Rigidbody2D squib;
+
+    public SpriteRenderer rend;
 
     public bool jumpNow = false;
 
@@ -21,6 +24,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         squib = GetComponent<Rigidbody2D>();
+        rend = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -34,6 +38,7 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
+        // Makes the character jump
         if(jumpNow)
         {
             jumpNow = false;
@@ -45,9 +50,19 @@ public class PlayerController : MonoBehaviour
             isGrounded = Physics2D.OverlapArea(new Vector2(transform.position.x - 0.5f, transform.position.y - 0.5f), new Vector2(transform.position.x + 0.5f, transform.position.y - 0.51f), Ground);
         }
 
+        moveInput = Input.GetAxisRaw("Horizontal");
+
+        // Flip character direction
+        if(moveInput == 1) {
+            isRight = true;
+        } else if (moveInput == -1) {
+            isRight = false;
+        }
+
+        rend.flipX = !isRight;
         
 
-        moveInput = Input.GetAxisRaw("Horizontal");
+        
         squib.velocity = new Vector2(moveInput*speed,squib.velocity.y);
     }
 }
