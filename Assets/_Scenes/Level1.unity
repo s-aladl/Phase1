@@ -1335,7 +1335,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 86411648}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 22, y: 2, z: 0}
+  m_LocalPosition: {x: 21.95, y: 2, z: 0}
   m_LocalScale: {x: 3.1, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12751,7 +12751,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1132353549}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 22.88, y: -2.93, z: 110.090706}
+  m_LocalPosition: {x: 22.88, y: -2.98, z: 110.090706}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -20710,6 +20710,7 @@ GameObject:
   - component: {fileID: 1992636414}
   - component: {fileID: 1992636415}
   - component: {fileID: 1992636416}
+  - component: {fileID: 1992636417}
   m_Layer: 7
   m_Name: Squib
   m_TagString: Player
@@ -20758,7 +20759,7 @@ SpriteRenderer:
   m_SortingLayerID: 899690621
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2453208753318357113, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
+  m_Sprite: {fileID: -6447722072507503168, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -20847,12 +20848,37 @@ MonoBehaviour:
   jumpForce: 6
   isGrounded: 0
   isRight: 1
+  isJumping: 0
+  isFalling: 0
+  lastYpos: 0
+  currentAnim: 0
+  anim: {fileID: 0}
   Ground:
     serializedVersion: 2
     m_Bits: 8
   squib: {fileID: 1992636414}
   rend: {fileID: 1992636412}
   jumpNow: 0
+--- !u!95 &1992636417
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1992636411}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f55e698132ee3f34cb90be62d0d07a60, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1999914367
 GameObject:
   m_ObjectHideFlags: 0
