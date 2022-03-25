@@ -6,8 +6,8 @@ public class PlayerController : MonoBehaviour
 {
 
     float moveInput = 0;
-    public int speed = 4;
-    public int jumpForce = 4;
+    public int speed = 5;
+    public int jumpForce = 6;
 
     public bool isGrounded = false;
     public bool isRight = true;
@@ -84,14 +84,12 @@ public class PlayerController : MonoBehaviour
 
         moveInput = Input.GetAxisRaw("Horizontal");
 
-        // Flip character direction
+        // Flip character direction if either left or right
         if(moveInput == 1) {
             isRight = true;
         } else if (moveInput == -1) {
             isRight = false;
-        } else if (moveInput == 0 && isGrounded) {
-            ChangeAnimation(Animations.Idle);
-        }
+        } 
 
         rend.flipX = !isRight;
         
@@ -109,4 +107,30 @@ public class PlayerController : MonoBehaviour
             anim.SetInteger("state", (int)currentAnim);
         }
     }
+
+    /*****************************************************************************/
+    // If the player touches the power up for speed boost
+    void OnTriggerEnter2D(Collider2D collision) {
+        if (collision.tag == "Collectable") {
+            SpeedUp();
+            // Change look of character with the power up
+            ChangeAnimation(Animations.Idle);
+        }
+
+        if (collision.tag == "Collectable2") {
+            jumpUp();
+        }
+    }
+    
+    // Change the speed of the player
+    void SpeedUp() {
+        speed += 3;
+    }
+
+    // Change the jump speed of the player
+    void jumpUp() {
+        jumpForce += 3;
+    }
+
+
 }
