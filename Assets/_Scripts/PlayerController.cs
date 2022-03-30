@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+      private int health=10;
+    public bool active = true;
+public TextMeshProUGUI healthText;
 
     float moveInput = 0;
     public int speed = 5;
@@ -11,6 +14,8 @@ public class PlayerController : MonoBehaviour
 
     public bool isGrounded = false;
     public bool isRight = true;
+
+    public bool instantDefeat = false;
 
     // Checks to see if character is jumping or falling
     public bool isJumping = false;
@@ -22,9 +27,12 @@ public class PlayerController : MonoBehaviour
         Falling = 2,
         Walking = 3,
     }
+    public bool respawn = false;
+    public float timetorespawn = 2f;
+    public float currentRespawnTime = 0;
+public Vector2 startPos;
     public Animations currentAnim;
     public Animator anim;
-
     public LayerMask Ground;
     public Rigidbody2D squib;
     public SpriteRenderer rend;
@@ -33,18 +41,45 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        currentAnim = Animations.Idle;
+
+
+        startPos = transform.position;
+        active = true;
+        squib = GetComponent<Rigidbody2D>();
+
+         currentAnim = Animations.Idle;
         anim = GetComponent<Animator>();
         ChangeAnimation(Animations.Idle);
 
-        squib = GetComponent<Rigidbody2D>();
+        //squib = GetComponent<Rigidbody2D>();
         rend = GetComponent<SpriteRenderer>();
         lastYpos = transform.position.y;
+
+        SetHealthText();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(respawn)
+        {
+            currentRespawnTime += Time.deltaTime;
+            if (currentRespawnTime >= timetorespawn)
+            {
+                currentRespawnTime = 0;
+                respawn = false;
+                RespawnPlayer();
+            }
+        }
+
+        if(!active)
+        {
+            return;
+        }
+
+
+
+
         if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             jumpNow = true;
@@ -133,4 +168,39 @@ public class PlayerController : MonoBehaviour
     }
 
 
+     public void PlayerHit(int damage)
+    {
+        health = health- damage;
+        SetHealthText();
+        if(health<=0)
+        {
+            PlayerDefeated();
+
+        }
+    }
+
+    public void PlayerDefeated()
+    {
+        active = false;
+        squib.isKinematic = true;
+        squib.velocity = Vector2.zero;
+        respawn = true;
+
+    }
+     public void RespawnPlayer()
+    {
+        active = true; 
+        squib.isKinematic = false;
+        transform.position = startPos;
+        health=10;
+        SetHealthText();
+    }
+
+     void SetHealthText()
+	{
+		healthText.text = "Health: " + health.ToString();//keeps track of point count
+	
+		
+		
+	}
 }
