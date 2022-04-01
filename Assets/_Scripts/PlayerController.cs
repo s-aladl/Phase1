@@ -50,7 +50,7 @@ public Vector2 startPos;
         active = true;
         squib = GetComponent<Rigidbody2D>();
 
-         currentAnim = Animations.Idle;
+        currentAnim = Animations.Idle;
         anim = GetComponent<Animator>();
         ChangeAnimation(Animations.Idle);
 
@@ -119,6 +119,7 @@ public Vector2 startPos;
         } else {
             isJumping = false;
             isFalling = false;
+            ChangeAnimation(Animations.Idle);
         }
 
         lastYpos = transform.position.y;
