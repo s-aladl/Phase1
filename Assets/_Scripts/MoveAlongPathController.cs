@@ -17,12 +17,14 @@ public class MoveAlongPathController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = Vector2.MoveTowards(transform.position, setPaths[currentPathIndex], speed * Time.deltaTime);
-        
-        if (transform.position.y < -0.15)
+        if (transform.position.y < -0.1)
         {
             Destroy(this.gameObject);
         }
+
+        transform.position = Vector2.MoveTowards(transform.position, setPaths[currentPathIndex], speed * Time.deltaTime);
+        
+        
         
         if(transform.position.x == setPaths[currentPathIndex].x && transform.position.y == setPaths[currentPathIndex].y)
         {
