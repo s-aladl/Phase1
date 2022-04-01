@@ -30,6 +30,11 @@ public class MartianController : MonoBehaviour
         // Takes current position value and moves toward the next position
         transform.position = Vector2.MoveTowards(transform.position, coords[path], speed * Time.deltaTime);
 
+        if (transform.position.y < -1)
+        {
+            Destroy(this.gameObject);
+        }
+
         if(transform.position.x == coords[path].x && transform.position.y == coords[path].y) {
             path++;
 

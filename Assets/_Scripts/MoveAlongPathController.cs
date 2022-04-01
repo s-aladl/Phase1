@@ -18,6 +18,12 @@ public class MoveAlongPathController : MonoBehaviour
     void Update()
     {
         transform.position = Vector2.MoveTowards(transform.position, setPaths[currentPathIndex], speed * Time.deltaTime);
+        
+        if (transform.position.y < -0.15)
+        {
+            Destroy(this.gameObject);
+        }
+        
         if(transform.position.x == setPaths[currentPathIndex].x && transform.position.y == setPaths[currentPathIndex].y)
         {
             currentPathIndex++;

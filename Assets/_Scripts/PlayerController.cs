@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 
 public class PlayerController : MonoBehaviour
@@ -79,7 +80,10 @@ public Vector2 startPos;
             return;
         }
 
-
+        if (transform.position.y < -2)
+        {
+            SceneManager.LoadScene("Level1");
+        }
 
 
         if(Input.GetKeyDown(KeyCode.Space) && isGrounded)

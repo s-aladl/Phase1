@@ -14,7 +14,7 @@ public class JumpController : MonoBehaviour
     public float jumpForceX = 2f;
     public float jumpForceY = 4f;
 
-    public float lastYPos = 0;
+    public float lastYPos = 0f;
 
     public Rigidbody2D rb;
     public SpriteRenderer spriteRenderer;
@@ -34,7 +34,10 @@ public class JumpController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+         if (transform.position.y < -1)
+        {
+            Destroy(this.gameObject);
+        }
     }
 
     void FixedUpdate()
