@@ -237,7 +237,7 @@ public Vector2 startPos;
 	}
      void SetPointText()
 	{
-		pointText.text = "Points: " + startPoints.ToString();//keeps track of point count
+		pointText.text = "Score: " + startPoints.ToString();//keeps track of point count
 	
 		
 		
