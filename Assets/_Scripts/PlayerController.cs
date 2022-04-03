@@ -166,13 +166,23 @@ public Vector2 startPos;
         if (collision.tag == "Collectable2") {
             jumpUp();
         }
+        if (collision.tag=="HealthBoost"){
+            Healthup();
+            SetHealthText();
+            
+        }
+        
+        
     }
+    
 
 
 
     
 
-       
+       void Healthup(){
+           health=health+3;
+       }
     
     
     // Change the speed of the player

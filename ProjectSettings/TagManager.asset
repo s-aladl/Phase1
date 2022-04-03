@@ -7,6 +7,7 @@ TagManager:
   - Bounds
   - Collectable
   - Collectable2
+  - HealthBoost
   layers:
   - Default
   - TransparentFX
