@@ -7,7 +7,11 @@ TagManager:
   - Bounds
   - Collectable
   - Collectable2
+<<<<<<< HEAD
   - Enemy
+=======
+  - HealthBoost
+>>>>>>> e074a9946fa31bf36a4fc611b7710b64346540fe
   layers:
   - Default
   - TransparentFX
