@@ -7,7 +7,6 @@ TagManager:
   - Bounds
   - Collectable
   - Collectable2
-  - Enemy
   layers:
   - Default
   - TransparentFX
