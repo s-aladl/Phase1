@@ -6,7 +6,7 @@ public class EnemyController : MonoBehaviour
 {
 
 
-   
+      
     public int damage = 1;
     public bool instantDefeat = false;
 
@@ -19,9 +19,6 @@ public class EnemyController : MonoBehaviour
                 player.PlayerHit(damage);
             }
         }
-
-
-        
     
     }
 

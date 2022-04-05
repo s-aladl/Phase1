@@ -8,10 +8,8 @@ using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {
       private int health=10;
-      private int startPoints=0;
     public bool active = true;
 public TextMeshProUGUI healthText;
-public TextMeshProUGUI pointText;
 
     float moveInput = 0;
     public int speed = 5;
@@ -61,8 +59,6 @@ public Vector2 startPos;
         lastYpos = transform.position.y;
 
         SetHealthText();
-                SetPointText();
-
     }
 
     // Update is called once per frame
@@ -166,24 +162,7 @@ public Vector2 startPos;
         if (collision.tag == "Collectable2") {
             jumpUp();
         }
-        if (collision.tag=="HealthBoost"){
-            Healthup();
-            SetHealthText();
-            
-        }
-        
-        
     }
-    
-
-
-
-    
-
-       void Healthup(){
-           health=health+3;
-       }
-    
     
     // Change the speed of the player
     void SpeedUp() {
@@ -204,18 +183,7 @@ public Vector2 startPos;
         {
             PlayerDefeated();
 
-        }}
-
-
-        public void Points(int point)
-    {
-        startPoints = startPoints+point;
-        SetPointText();
-        
-
-
-
-
+        }
     }
 
     public void PlayerDefeated()
@@ -232,22 +200,12 @@ public Vector2 startPos;
         squib.isKinematic = false;
         transform.position = startPos;
         health=10;
-        startPoints=0;
         SetHealthText();
-        SetPointText();
-
     }
 
      void SetHealthText()
 	{
 		healthText.text = "Health: " + health.ToString();//keeps track of point count
-	
-		
-		
-	}
-     void SetPointText()
-	{
-		pointText.text = "Score: " + startPoints.ToString();//keeps track of point count
 	
 		
 		
