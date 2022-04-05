@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 931165}
   - component: {fileID: 931166}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -217,7 +217,7 @@ GameObject:
   m_Component:
   - component: {fileID: 23689226}
   - component: {fileID: 23689227}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -303,7 +303,7 @@ GameObject:
   - component: {fileID: 26775391}
   - component: {fileID: 26775390}
   - component: {fileID: 26775389}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -413,7 +413,7 @@ GameObject:
   m_Component:
   - component: {fileID: 49358076}
   - component: {fileID: 49358077}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -632,7 +632,7 @@ GameObject:
   m_Component:
   - component: {fileID: 56469564}
   - component: {fileID: 56469565}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -716,7 +716,7 @@ GameObject:
   m_Component:
   - component: {fileID: 75452696}
   - component: {fileID: 75452697}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -774,7 +774,7 @@ GameObject:
   m_Component:
   - component: {fileID: 79448224}
   - component: {fileID: 79448225}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -858,7 +858,7 @@ GameObject:
   m_Component:
   - component: {fileID: 79850406}
   - component: {fileID: 79850407}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -941,7 +941,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 84725948}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Mountain (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -984,7 +984,7 @@ GameObject:
   m_Component:
   - component: {fileID: 85597342}
   - component: {fileID: 85597343}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1152,7 +1152,7 @@ GameObject:
   m_Component:
   - component: {fileID: 90637130}
   - component: {fileID: 90637132}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: FallingPlatform (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1208,7 +1208,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 94135256}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1223,7 +1223,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 94135255}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 75.46, y: 0, z: 0}
+  m_LocalPosition: {x: 79.33, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1263,7 +1263,7 @@ GameObject:
   m_Component:
   - component: {fileID: 94621056}
   - component: {fileID: 94621057}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1347,7 +1347,7 @@ GameObject:
   m_Component:
   - component: {fileID: 95471187}
   - component: {fileID: 95471186}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1431,7 +1431,7 @@ GameObject:
   m_Component:
   - component: {fileID: 97554769}
   - component: {fileID: 97554770}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: OtherCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1489,7 +1489,7 @@ GameObject:
   m_Component:
   - component: {fileID: 102963217}
   - component: {fileID: 102963218}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: OtherCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1548,7 +1548,7 @@ GameObject:
   - component: {fileID: 107341395}
   - component: {fileID: 107341397}
   - component: {fileID: 107341396}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1664,7 +1664,7 @@ GameObject:
   m_Component:
   - component: {fileID: 140050296}
   - component: {fileID: 140050297}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1748,7 +1748,7 @@ GameObject:
   m_Component:
   - component: {fileID: 140945783}
   - component: {fileID: 140945784}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: OtherCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1806,7 +1806,7 @@ GameObject:
   m_Component:
   - component: {fileID: 143370709}
   - component: {fileID: 143370708}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1890,7 +1890,7 @@ GameObject:
   m_Component:
   - component: {fileID: 152180354}
   - component: {fileID: 152180353}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1974,7 +1974,7 @@ GameObject:
   m_Component:
   - component: {fileID: 155520626}
   - component: {fileID: 155520625}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2058,7 +2058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 158096832}
   - component: {fileID: 158096833}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2142,7 +2142,7 @@ GameObject:
   m_Component:
   - component: {fileID: 158632225}
   - component: {fileID: 158632226}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2226,7 +2226,7 @@ GameObject:
   m_Component:
   - component: {fileID: 170137403}
   - component: {fileID: 170137404}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2310,7 +2310,7 @@ GameObject:
   m_Component:
   - component: {fileID: 170872715}
   - component: {fileID: 170872716}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: MovingPlatform (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2363,7 +2363,7 @@ GameObject:
   m_Component:
   - component: {fileID: 183586045}
   - component: {fileID: 183586046}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2447,7 +2447,7 @@ GameObject:
   m_Component:
   - component: {fileID: 186856976}
   - component: {fileID: 186856977}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2531,7 +2531,7 @@ GameObject:
   m_Component:
   - component: {fileID: 200087313}
   - component: {fileID: 200087314}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2615,7 +2615,7 @@ GameObject:
   m_Component:
   - component: {fileID: 214291402}
   - component: {fileID: 214291403}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2699,7 +2699,7 @@ GameObject:
   m_Component:
   - component: {fileID: 223641364}
   - component: {fileID: 223641365}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2783,7 +2783,7 @@ GameObject:
   m_Component:
   - component: {fileID: 224694359}
   - component: {fileID: 224694360}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: MovingPlatform (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2836,7 +2836,7 @@ GameObject:
   m_Component:
   - component: {fileID: 225006929}
   - component: {fileID: 225006930}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2856,7 +2856,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1308945324}
-  m_RootOrder: 10
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &225006930
 BoxCollider2D:
@@ -2871,7 +2871,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.43219757, y: 0.38993073}
+  m_Offset: {x: 2.406124, y: 0.38993073}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2882,7 +2882,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 9.8519745, y: 0.17771816}
+  m_Size: {x: 13.799828, y: 0.17771816}
   m_EdgeRadius: 0
 --- !u!1 &235884267
 GameObject:
@@ -2894,7 +2894,7 @@ GameObject:
   m_Component:
   - component: {fileID: 235884268}
   - component: {fileID: 235884269}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2978,7 +2978,7 @@ GameObject:
   m_Component:
   - component: {fileID: 237358612}
   - component: {fileID: 237358613}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3061,7 +3061,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 237919471}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Hill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3109,7 +3109,7 @@ GameObject:
   m_Component:
   - component: {fileID: 242968183}
   - component: {fileID: 242968182}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3193,7 +3193,7 @@ GameObject:
   m_Component:
   - component: {fileID: 246622946}
   - component: {fileID: 246622947}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3361,7 +3361,7 @@ GameObject:
   m_Component:
   - component: {fileID: 255577324}
   - component: {fileID: 255577325}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3446,7 +3446,7 @@ GameObject:
   - component: {fileID: 262144307}
   - component: {fileID: 262144309}
   - component: {fileID: 262144308}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3660,7 +3660,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 263998794}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3690,6 +3690,153 @@ Transform:
   m_Father: {fileID: 423010938}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &272098994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 272098995}
+  - component: {fileID: 272098999}
+  - component: {fileID: 272098998}
+  - component: {fileID: 272098997}
+  - component: {fileID: 272098996}
+  m_Layer: 0
+  m_Name: Apple (Spring Boots Powerup)
+  m_TagString: Collectable2
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &272098995
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272098994}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -12.12, y: -5.91, z: 20.86927}
+  m_LocalScale: {x: 6, y: 6, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1520330168}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &272098996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272098994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b7cd6fdbb58e34bb52f43ccae41a40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 0}
+  gameControl: {fileID: 0}
+--- !u!61 &272098997
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272098994}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0032941252, y: 0.0013757385}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.32}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.15048695, y: 0.14114699}
+  m_EdgeRadius: 0
+--- !u!95 &272098998
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272098994}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 92dbc20caadd5794c985d15dd06f7f3f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &272098999
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272098994}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 7293598183456022363, guid: 1ddc9afd21fec77489b1248d18f31b68, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &272794393
 GameObject:
   m_ObjectHideFlags: 0
@@ -3700,7 +3847,7 @@ GameObject:
   m_Component:
   - component: {fileID: 272794394}
   - component: {fileID: 272794395}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3784,7 +3931,7 @@ GameObject:
   m_Component:
   - component: {fileID: 286550041}
   - component: {fileID: 286550042}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3868,7 +4015,7 @@ GameObject:
   m_Component:
   - component: {fileID: 291309972}
   - component: {fileID: 291309971}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3952,7 +4099,7 @@ GameObject:
   m_Component:
   - component: {fileID: 296347169}
   - component: {fileID: 296347170}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4036,7 +4183,7 @@ GameObject:
   m_Component:
   - component: {fileID: 309889377}
   - component: {fileID: 309889378}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4120,7 +4267,7 @@ GameObject:
   m_Component:
   - component: {fileID: 320469438}
   - component: {fileID: 320469439}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4204,7 +4351,7 @@ GameObject:
   m_Component:
   - component: {fileID: 323036818}
   - component: {fileID: 323036819}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4436,7 +4583,7 @@ GameObject:
   m_Component:
   - component: {fileID: 324455550}
   - component: {fileID: 324455551}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4566,7 +4713,7 @@ GameObject:
   m_Component:
   - component: {fileID: 336643627}
   - component: {fileID: 336643628}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4650,7 +4797,7 @@ GameObject:
   m_Component:
   - component: {fileID: 336959483}
   - component: {fileID: 336959484}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_40 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4734,7 +4881,7 @@ GameObject:
   m_Component:
   - component: {fileID: 340209550}
   - component: {fileID: 340209551}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4818,7 +4965,7 @@ GameObject:
   m_Component:
   - component: {fileID: 340419815}
   - component: {fileID: 340419816}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4902,7 +5049,7 @@ GameObject:
   m_Component:
   - component: {fileID: 343391287}
   - component: {fileID: 343391288}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4960,7 +5107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 346802120}
   - component: {fileID: 346802121}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5044,7 +5191,7 @@ GameObject:
   m_Component:
   - component: {fileID: 357203876}
   - component: {fileID: 357203877}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5102,7 +5249,7 @@ GameObject:
   m_Component:
   - component: {fileID: 360898697}
   - component: {fileID: 360898698}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5185,7 +5332,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 361406306}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Mountain (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5230,7 +5377,7 @@ GameObject:
   m_Component:
   - component: {fileID: 362535752}
   - component: {fileID: 362535753}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5289,7 +5436,7 @@ GameObject:
   - component: {fileID: 362983900}
   - component: {fileID: 362983902}
   - component: {fileID: 362983901}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5373,7 +5520,7 @@ GameObject:
   m_Component:
   - component: {fileID: 364118679}
   - component: {fileID: 364118680}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5431,7 +5578,7 @@ GameObject:
   m_Component:
   - component: {fileID: 368114241}
   - component: {fileID: 368114242}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5515,7 +5662,7 @@ GameObject:
   m_Component:
   - component: {fileID: 372364456}
   - component: {fileID: 372364457}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5599,7 +5746,7 @@ GameObject:
   m_Component:
   - component: {fileID: 376615378}
   - component: {fileID: 376615379}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5683,7 +5830,7 @@ GameObject:
   m_Component:
   - component: {fileID: 377839185}
   - component: {fileID: 377839186}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5767,7 +5914,7 @@ GameObject:
   m_Component:
   - component: {fileID: 380776788}
   - component: {fileID: 380776789}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5973,7 +6120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 394111549}
   - component: {fileID: 394111550}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6056,7 +6203,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 423010938}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Start
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6094,7 +6241,7 @@ GameObject:
   m_Component:
   - component: {fileID: 433100005}
   - component: {fileID: 433100006}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6178,7 +6325,7 @@ GameObject:
   m_Component:
   - component: {fileID: 436092629}
   - component: {fileID: 436092630}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6264,7 +6411,7 @@ GameObject:
   - component: {fileID: 438022131}
   - component: {fileID: 438022130}
   - component: {fileID: 438022129}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6374,7 +6521,7 @@ GameObject:
   m_Component:
   - component: {fileID: 452231802}
   - component: {fileID: 452231801}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6458,7 +6605,7 @@ GameObject:
   m_Component:
   - component: {fileID: 455137506}
   - component: {fileID: 455137507}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6626,7 +6773,7 @@ GameObject:
   m_Component:
   - component: {fileID: 467813277}
   - component: {fileID: 467813278}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6685,7 +6832,7 @@ GameObject:
   - component: {fileID: 469951204}
   - component: {fileID: 469951206}
   - component: {fileID: 469951205}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6769,7 +6916,7 @@ GameObject:
   m_Component:
   - component: {fileID: 475809234}
   - component: {fileID: 475809235}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6828,7 +6975,7 @@ GameObject:
   - component: {fileID: 485343054}
   - component: {fileID: 485343056}
   - component: {fileID: 485343055}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6912,7 +7059,7 @@ GameObject:
   m_Component:
   - component: {fileID: 485568397}
   - component: {fileID: 485568398}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6996,7 +7143,7 @@ GameObject:
   m_Component:
   - component: {fileID: 498729502}
   - component: {fileID: 498729503}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7301,7 +7448,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 533898052}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 18.53, y: -1.83, z: 0}
+  m_LocalPosition: {x: 22.41, y: -1.83, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7370,7 +7517,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.027971268, y: -0.050348163}
@@ -7398,8 +7545,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a1d30e618f8ad0498615f97ab34e3ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  iLevel: 2
-  sLevel: 
+  iLevel: 4
+  sLevel: EndScreen
   loadLevel: 1
   collectedEvery: 0
 --- !u!1 &550180611
@@ -7412,7 +7559,7 @@ GameObject:
   m_Component:
   - component: {fileID: 550180612}
   - component: {fileID: 550180613}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7496,7 +7643,7 @@ GameObject:
   m_Component:
   - component: {fileID: 559144834}
   - component: {fileID: 559144835}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7601,7 +7748,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speedBoost: []
   collectJunk: []
-  healthBoost: []
+  healthBoost:
+  - {fileID: 0}
 --- !u!4 &568596426
 Transform:
   m_ObjectHideFlags: 0
@@ -7627,7 +7775,7 @@ GameObject:
   m_Component:
   - component: {fileID: 579824618}
   - component: {fileID: 579824619}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7711,7 +7859,7 @@ GameObject:
   m_Component:
   - component: {fileID: 583425709}
   - component: {fileID: 583425710}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7794,7 +7942,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 583481327}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7839,7 +7987,7 @@ GameObject:
   m_Component:
   - component: {fileID: 597153206}
   - component: {fileID: 597153207}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7923,7 +8071,7 @@ GameObject:
   m_Component:
   - component: {fileID: 597698281}
   - component: {fileID: 597698282}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8007,7 +8155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 599800277}
   - component: {fileID: 599800278}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8091,7 +8239,7 @@ GameObject:
   m_Component:
   - component: {fileID: 607395605}
   - component: {fileID: 607395604}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_25 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8175,7 +8323,7 @@ GameObject:
   m_Component:
   - component: {fileID: 612303770}
   - component: {fileID: 612303771}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8259,7 +8407,7 @@ GameObject:
   m_Component:
   - component: {fileID: 622978639}
   - component: {fileID: 622978640}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8343,7 +8491,7 @@ GameObject:
   m_Component:
   - component: {fileID: 626938223}
   - component: {fileID: 626938224}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8427,7 +8575,7 @@ GameObject:
   m_Component:
   - component: {fileID: 631496353}
   - component: {fileID: 631496354}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: OtherCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8485,7 +8633,7 @@ GameObject:
   m_Component:
   - component: {fileID: 637691448}
   - component: {fileID: 637691449}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_40 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8569,7 +8717,7 @@ GameObject:
   m_Component:
   - component: {fileID: 638298100}
   - component: {fileID: 638298101}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: OtherCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8627,7 +8775,7 @@ GameObject:
   m_Component:
   - component: {fileID: 638461497}
   - component: {fileID: 638461498}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8711,7 +8859,7 @@ GameObject:
   m_Component:
   - component: {fileID: 638934758}
   - component: {fileID: 638934759}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8768,7 +8916,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 641656200}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8799,6 +8947,90 @@ Transform:
   m_Father: {fileID: 1645046156}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &649768205
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 649768206}
+  - component: {fileID: 649768207}
+  m_Layer: 6
+  m_Name: Floor (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &649768206
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 649768205}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.8, y: -3.2900047, z: -3.8340242}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1308945324}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &649768207
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 649768205}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300050, guid: 962e67ff7370f0c4492dca70b64f89e9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &652944719
 GameObject:
   m_ObjectHideFlags: 0
@@ -8926,7 +9158,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 668605850}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Hill (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8981,7 +9213,7 @@ GameObject:
   m_Component:
   - component: {fileID: 668627902}
   - component: {fileID: 668627903}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9065,7 +9297,7 @@ GameObject:
   m_Component:
   - component: {fileID: 671465310}
   - component: {fileID: 671465309}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9150,7 +9382,7 @@ GameObject:
   - component: {fileID: 677780490}
   - component: {fileID: 677780491}
   - component: {fileID: 677780492}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9234,7 +9466,7 @@ GameObject:
   m_Component:
   - component: {fileID: 684958359}
   - component: {fileID: 684958360}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9318,7 +9550,7 @@ GameObject:
   m_Component:
   - component: {fileID: 685459301}
   - component: {fileID: 685459302}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9376,7 +9608,7 @@ GameObject:
   m_Component:
   - component: {fileID: 687648959}
   - component: {fileID: 687648960}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9460,7 +9692,7 @@ GameObject:
   m_Component:
   - component: {fileID: 694815765}
   - component: {fileID: 694815766}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: OtherCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9518,7 +9750,7 @@ GameObject:
   m_Component:
   - component: {fileID: 714369154}
   - component: {fileID: 714369155}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9601,7 +9833,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 719153985}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9645,7 +9877,7 @@ GameObject:
   m_Component:
   - component: {fileID: 738544642}
   - component: {fileID: 738544643}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9729,7 +9961,7 @@ GameObject:
   m_Component:
   - component: {fileID: 742753097}
   - component: {fileID: 742753098}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9813,7 +10045,7 @@ GameObject:
   m_Component:
   - component: {fileID: 756787337}
   - component: {fileID: 756787338}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9897,7 +10129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 761443412}
   - component: {fileID: 761443413}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9981,7 +10213,7 @@ GameObject:
   m_Component:
   - component: {fileID: 764151562}
   - component: {fileID: 764151563}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: OtherCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10039,7 +10271,7 @@ GameObject:
   m_Component:
   - component: {fileID: 780369859}
   - component: {fileID: 780369860}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10207,7 +10439,7 @@ GameObject:
   m_Component:
   - component: {fileID: 787295137}
   - component: {fileID: 787295138}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10281,7 +10513,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 788834842}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 65.56, y: 1.95, z: 19.94187}
+  m_LocalPosition: {x: 69.48, y: 1.95, z: 19.94187}
   m_LocalScale: {x: 6, y: 6, z: 6}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10370,7 +10602,7 @@ GameObject:
   m_Component:
   - component: {fileID: 798645589}
   - component: {fileID: 798645590}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10479,8 +10711,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   countSpaceJunk: 0
   active: 1
-  healthText: {fileID: 0}
-  pointText: {fileID: 0}
+  healthText: {fileID: 52085241}
+  pointText: {fileID: 1651863076}
   speed: 5
   jumpForce: 7
   isGrounded: 0
@@ -10631,7 +10863,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 798807328}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -54.79, y: 9.61, z: 0}
+  m_LocalPosition: {x: -55.62, y: 9.61, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10647,7 +10879,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 803877601}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10760,7 +10992,7 @@ GameObject:
   m_Component:
   - component: {fileID: 819133295}
   - component: {fileID: 819133296}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10844,7 +11076,7 @@ GameObject:
   m_Component:
   - component: {fileID: 822138354}
   - component: {fileID: 822138355}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10928,7 +11160,7 @@ GameObject:
   m_Component:
   - component: {fileID: 824132741}
   - component: {fileID: 824132742}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11012,7 +11244,7 @@ GameObject:
   m_Component:
   - component: {fileID: 839747691}
   - component: {fileID: 839747692}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11096,7 +11328,7 @@ GameObject:
   m_Component:
   - component: {fileID: 844487571}
   - component: {fileID: 844487572}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11154,7 +11386,7 @@ GameObject:
   m_Component:
   - component: {fileID: 845922475}
   - component: {fileID: 845922474}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_26 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11237,7 +11469,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 859730461}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11276,7 +11508,7 @@ GameObject:
   m_Component:
   - component: {fileID: 862058748}
   - component: {fileID: 862058749}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11360,7 +11592,7 @@ GameObject:
   m_Component:
   - component: {fileID: 870303700}
   - component: {fileID: 870303701}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: MovingPlatform (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11414,7 +11646,7 @@ GameObject:
   m_Component:
   - component: {fileID: 906106357}
   - component: {fileID: 906106358}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11498,7 +11730,7 @@ GameObject:
   m_Component:
   - component: {fileID: 930777481}
   - component: {fileID: 930777482}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11582,7 +11814,7 @@ GameObject:
   m_Component:
   - component: {fileID: 933014971}
   - component: {fileID: 933014970}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11750,7 +11982,7 @@ GameObject:
   m_Component:
   - component: {fileID: 942013808}
   - component: {fileID: 942013809}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11833,7 +12065,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 957406034}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11866,7 +12098,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 976266803}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: New Environment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11902,7 +12134,7 @@ GameObject:
   m_Component:
   - component: {fileID: 976912718}
   - component: {fileID: 976912719}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11960,7 +12192,7 @@ GameObject:
   m_Component:
   - component: {fileID: 996020669}
   - component: {fileID: 996020670}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12166,7 +12398,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1009012288}
   - component: {fileID: 1009012289}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12250,7 +12482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1009793140}
   - component: {fileID: 1009793141}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12334,7 +12566,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1015884702}
   - component: {fileID: 1015884703}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12418,7 +12650,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1017479722}
   - component: {fileID: 1017479723}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12501,7 +12733,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1018864450}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Middle-End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12648,7 +12880,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1027857484}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 39.738945, y: 2.508605, z: 161.49986}
+  m_LocalPosition: {x: 27.74, y: 1.24, z: 161.49986}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12665,7 +12897,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1028247605}
   - component: {fileID: 1028247606}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12749,7 +12981,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1037840776}
   - component: {fileID: 1037840777}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13024,7 +13256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1064450704}
   - component: {fileID: 1064450705}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13108,7 +13340,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1073045302}
   - component: {fileID: 1073045303}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13192,7 +13424,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1087726313}
   - component: {fileID: 1087726314}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13276,7 +13508,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1094797523}
   - component: {fileID: 1094797524}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13562,7 +13794,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1105391371}
   - component: {fileID: 1105391372}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13646,7 +13878,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1113267274}
   - component: {fileID: 1113267275}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13706,7 +13938,7 @@ GameObject:
   - component: {fileID: 1113580750}
   - component: {fileID: 1113580749}
   - component: {fileID: 1113580751}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13816,7 +14048,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1116623722}
   - component: {fileID: 1116623723}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13874,7 +14106,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1124121295}
   - component: {fileID: 1124121296}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: OtherCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13932,7 +14164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1129347528}
   - component: {fileID: 1129347529}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14015,7 +14247,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1135561367}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14056,7 +14288,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1143402629}
   - component: {fileID: 1143402628}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14140,7 +14372,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1145958237}
   - component: {fileID: 1145958236}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14214,6 +14446,153 @@ Transform:
   m_Father: {fileID: 237919471}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1146746295
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1146746296}
+  - component: {fileID: 1146746300}
+  - component: {fileID: 1146746299}
+  - component: {fileID: 1146746298}
+  - component: {fileID: 1146746297}
+  m_Layer: 0
+  m_Name: Cherry (Speedboost power up)
+  m_TagString: Collectable
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1146746296
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1146746295}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 34.66, y: 5.86, z: 20.86927}
+  m_LocalScale: {x: 6, y: 6, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1520330168}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1146746297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1146746295}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b7cd6fdbb58e34bb52f43ccae41a40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 0}
+  gameControl: {fileID: 0}
+--- !u!61 &1146746298
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1146746295}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0032941252, y: 0.0013757385}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.32}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.15048695, y: 0.14114699}
+  m_EdgeRadius: 0
+--- !u!95 &1146746299
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1146746295}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 92dbc20caadd5794c985d15dd06f7f3f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &1146746300
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1146746295}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -4570538037665054336, guid: 3d6be91968cb95546ac95aeff5e52f84, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1165713051
 GameObject:
   m_ObjectHideFlags: 0
@@ -14224,7 +14603,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1165713052}
   - component: {fileID: 1165713053}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14308,7 +14687,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1189419883}
   - component: {fileID: 1189419884}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14392,7 +14771,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1197272105}
   - component: {fileID: 1197272106}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14476,7 +14855,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1199687360}
   - component: {fileID: 1199687361}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14560,7 +14939,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1205355863}
   - component: {fileID: 1205355864}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14644,7 +15023,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1210008367}
   - component: {fileID: 1210008369}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: 2Bit Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14701,7 +15080,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1230036299}
   - component: {fileID: 1230036300}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14785,7 +15164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1233334487}
   - component: {fileID: 1233334488}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14859,6 +15238,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1235962683
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1235962684}
+  - component: {fileID: 1235962685}
+  m_Layer: 6
+  m_Name: Floor (14)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1235962684
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1235962683}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.82, y: -3.2900047, z: -3.8340242}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1308945324}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1235962685
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1235962683}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300050, guid: 962e67ff7370f0c4492dca70b64f89e9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1237527281
 GameObject:
   m_ObjectHideFlags: 0
@@ -14869,7 +15332,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1237527282}
   - component: {fileID: 1237527283}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14943,6 +15406,169 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1241249177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1241249178}
+  - component: {fileID: 1241249182}
+  - component: {fileID: 1241249181}
+  - component: {fileID: 1241249180}
+  - component: {fileID: 1241249179}
+  m_Layer: 9
+  m_Name: Steve
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1241249178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241249177}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 64.25, y: -2.15, z: 0}
+  m_LocalScale: {x: 5.5, y: 5, z: 5}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1979059397}
+  - {fileID: 2138177939}
+  m_Father: {fileID: 1263550447}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1241249179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241249177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7bd4a63116a5c84297c4376b019dd39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  facingRight: 0
+  Ground:
+    serializedVersion: 2
+    m_Bits: 64
+  isGrounded: 0
+  isFalling: 0
+  isJumping: 0
+  jumpForceX: 3
+  jumpForceY: 6
+  lastYPos: 1.16
+  rb: {fileID: 0}
+  spriteRenderer: {fileID: 0}
+  idleTime: 2
+  currentIdleTime: 0
+  isIdle: 1
+--- !u!61 &1241249180
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241249177}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.00031829625, y: -0.028621068}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.21}
+    newSize: {x: 4.8, y: 4.8}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.1, y: 0.15851574}
+  m_EdgeRadius: 0
+--- !u!50 &1241249181
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241249177}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!212 &1241249182
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241249177}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -639691387
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 2e2d3323cd6e647dc98c37d2577aa908, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 4.8, y: 4.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1250507990
 GameObject:
   m_ObjectHideFlags: 0
@@ -14953,7 +15579,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1250507991}
   - component: {fileID: 1250507992}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15037,7 +15663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1261550195}
   - component: {fileID: 1261550196}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15141,6 +15767,7 @@ Transform:
   m_Children:
   - {fileID: 1044469756}
   - {fileID: 262222871}
+  - {fileID: 1241249178}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -15154,7 +15781,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1270750695}
   - component: {fileID: 1270750696}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15311,7 +15938,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1278203950}
   - component: {fileID: 1278203951}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15395,7 +16022,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1278727523}
   - component: {fileID: 1278727524}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15646,7 +16273,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1298262476}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.5280552, y: 0.98460484, z: 161.49986}
+  m_LocalPosition: {x: -13.75, y: 3.49, z: 161.49986}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15663,7 +16290,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1299653663}
   - component: {fileID: 1299653664}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15746,7 +16373,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1308945324}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15775,6 +16402,10 @@ Transform:
   - {fileID: 368114241}
   - {fileID: 140050296}
   - {fileID: 1849473981}
+  - {fileID: 1965978620}
+  - {fileID: 1668224307}
+  - {fileID: 649768206}
+  - {fileID: 1235962684}
   - {fileID: 225006929}
   - {fileID: 1400494478}
   m_Father: {fileID: 957406034}
@@ -15790,7 +16421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1320546223}
   - component: {fileID: 1320546224}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15875,7 +16506,7 @@ GameObject:
   - component: {fileID: 1324200258}
   - component: {fileID: 1324200260}
   - component: {fileID: 1324200259}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15959,7 +16590,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1331774113}
   - component: {fileID: 1331774114}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16016,7 +16647,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1333230756}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16071,7 +16702,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1339634711}
   - component: {fileID: 1339634712}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16157,7 +16788,7 @@ GameObject:
   - component: {fileID: 1340010271}
   - component: {fileID: 1340010270}
   - component: {fileID: 1340010269}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16267,7 +16898,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1345145585}
   - component: {fileID: 1345145584}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16351,7 +16982,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1353270785}
   - component: {fileID: 1353270786}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16519,7 +17150,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1363882250}
   - component: {fileID: 1363882251}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16577,7 +17208,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1382223050}
   - component: {fileID: 1382223049}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_40 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16661,7 +17292,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1388885396}
   - component: {fileID: 1388885397}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16843,7 +17474,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1391783548}
   - component: {fileID: 1391783549}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16927,7 +17558,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1392801119}
   - component: {fileID: 1392801120}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17011,7 +17642,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1400494478}
   - component: {fileID: 1400494479}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17031,7 +17662,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1308945324}
-  m_RootOrder: 11
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1400494479
 BoxCollider2D:
@@ -17046,7 +17677,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.4442711, y: 0.64410067}
+  m_Offset: {x: 2.397272, y: 0.64410067}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -17057,7 +17688,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 9.900269, y: 0.68605804}
+  m_Size: {x: 13.806271, y: 0.68605804}
   m_EdgeRadius: 0
 --- !u!1 &1402877287
 GameObject:
@@ -17069,7 +17700,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1402877288}
   - component: {fileID: 1402877289}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17127,7 +17758,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1413317994}
   - component: {fileID: 1413317995}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17211,7 +17842,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1420776039}
   - component: {fileID: 1420776040}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17295,7 +17926,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1438816849}
   - component: {fileID: 1438816850}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17379,7 +18010,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1439441308}
   - component: {fileID: 1439441309}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17463,7 +18094,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1446387548}
   - component: {fileID: 1446387549}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17547,7 +18178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1450183358}
   - component: {fileID: 1450183359}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17631,7 +18262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1452363442}
   - component: {fileID: 1452363443}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17748,7 +18379,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1472558686}
   - component: {fileID: 1472558687}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17832,7 +18463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1473711429}
   - component: {fileID: 1473711430}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17916,7 +18547,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1484415836}
   - component: {fileID: 1484415837}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18000,7 +18631,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1490187849}
   - component: {fileID: 1490187850}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18058,7 +18689,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1493974125}
   - component: {fileID: 1493974126}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18142,7 +18773,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1494529317}
   - component: {fileID: 1494529318}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18226,7 +18857,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1495158467}
   - component: {fileID: 1495158468}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18310,7 +18941,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1502776803}
   - component: {fileID: 1502776804}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18394,7 +19025,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1510154077}
   - component: {fileID: 1510154078}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18452,7 +19083,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1513872052}
   - component: {fileID: 1513872053}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18536,7 +19167,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1514225374}
   - component: {fileID: 1514225375}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18620,7 +19251,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1514597814}
   - component: {fileID: 1514597815}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18704,7 +19335,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1517544139}
   - component: {fileID: 1517544140}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18778,6 +19409,39 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1520330167
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1520330168}
+  m_Layer: 0
+  m_Name: PowerUps
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1520330168
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1520330167}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -42.909946, y: 10.148905, z: -0.86517406}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1146746296}
+  - {fileID: 272098995}
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1529973050
 GameObject:
   m_ObjectHideFlags: 0
@@ -18788,7 +19452,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1529973052}
   - component: {fileID: 1529973051}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18873,7 +19537,7 @@ GameObject:
   - component: {fileID: 1540009693}
   - component: {fileID: 1540009695}
   - component: {fileID: 1540009694}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18956,7 +19620,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1546642325}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18995,7 +19659,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1562363164}
   - component: {fileID: 1562363165}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19079,7 +19743,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1563559830}
   - component: {fileID: 1563559831}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19163,7 +19827,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1565104884}
   - component: {fileID: 1565104885}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19305,7 +19969,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1574002167}
   - component: {fileID: 1574002168}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19389,7 +20053,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1577406198}
   - component: {fileID: 1577406199}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19473,7 +20137,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1584312894}
   - component: {fileID: 1584312895}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19531,7 +20195,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1592010969}
   - component: {fileID: 1592010970}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19589,7 +20253,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1596158357}
   - component: {fileID: 1596158358}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19673,7 +20337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1627052625}
   - component: {fileID: 1627052626}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19757,7 +20421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1627374486}
   - component: {fileID: 1627374485}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19840,7 +20504,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1645046156}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Middle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20021,7 +20685,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1652130205}
   - component: {fileID: 1652130204}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20105,7 +20769,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1661531597}
   - component: {fileID: 1661531598}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20263,6 +20927,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1668224306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1668224307}
+  - component: {fileID: 1668224308}
+  m_Layer: 6
+  m_Name: Floor (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1668224307
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668224306}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.8, y: -3.2900047, z: -3.8340242}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1308945324}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1668224308
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668224306}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300050, guid: 962e67ff7370f0c4492dca70b64f89e9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1686237597
 GameObject:
   m_ObjectHideFlags: 0
@@ -20273,7 +21021,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1686237598}
   - component: {fileID: 1686237599}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20357,7 +21105,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1686407786}
   - component: {fileID: 1686407787}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: MovingPlatform (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20410,7 +21158,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1705266788}
   - component: {fileID: 1705266789}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20494,7 +21242,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1706306440}
   - component: {fileID: 1706306441}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20578,7 +21326,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1711752594}
   - component: {fileID: 1711752595}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20636,7 +21384,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1722926658}
   - component: {fileID: 1722926657}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20721,7 +21469,7 @@ GameObject:
   - component: {fileID: 1736890184}
   - component: {fileID: 1736890186}
   - component: {fileID: 1736890185}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20805,7 +21553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1740504144}
   - component: {fileID: 1740504145}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_15 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20889,7 +21637,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1752653235}
   - component: {fileID: 1752653236}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20973,7 +21721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1753768828}
   - component: {fileID: 1753768829}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_15 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21057,7 +21805,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1755608921}
   - component: {fileID: 1755608922}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21141,7 +21889,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1757127081}
   - component: {fileID: 1757127082}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21225,7 +21973,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1789052014}
   - component: {fileID: 1789052015}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21283,7 +22031,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1815129440}
   - component: {fileID: 1815129441}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21367,7 +22115,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1840151208}
   - component: {fileID: 1840151209}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: OtherCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21425,7 +22173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1841841686}
   - component: {fileID: 1841841687}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21509,7 +22257,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1842862873}
   - component: {fileID: 1842862874}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21593,7 +22341,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1844206413}
   - component: {fileID: 1844206414}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21677,7 +22425,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1849473981}
   - component: {fileID: 1849473982}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21761,7 +22509,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1858490194}
   - component: {fileID: 1858490195}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21819,7 +22567,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1861418287}
   - component: {fileID: 1861418288}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21903,7 +22651,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1874833843}
   - component: {fileID: 1874833844}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21987,7 +22735,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1875647690}
   - component: {fileID: 1875647691}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22071,7 +22819,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1876858028}
   - component: {fileID: 1876858029}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22155,7 +22903,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1882031957}
   - component: {fileID: 1882031956}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22239,7 +22987,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1883717429}
   - component: {fileID: 1883717430}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22390,7 +23138,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1891478455}
   - component: {fileID: 1891478456}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22474,7 +23222,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1894189802}
   - component: {fileID: 1894189803}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22557,7 +23305,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1895689828}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22596,7 +23344,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1899022961}
   - component: {fileID: 1899022962}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22680,7 +23428,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1905783974}
   - component: {fileID: 1905783975}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22848,7 +23596,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1911227616}
   - component: {fileID: 1911227617}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22932,7 +23680,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1922827959}
   - component: {fileID: 1922827960}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23017,7 +23765,7 @@ GameObject:
   - component: {fileID: 1929575195}
   - component: {fileID: 1929575197}
   - component: {fileID: 1929575196}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: FallingPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23088,7 +23836,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1933095509}
   - component: {fileID: 1933095508}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23172,7 +23920,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1939202461}
   - component: {fileID: 1939202462}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23256,7 +24004,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1957170222}
   - component: {fileID: 1957170223}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Mountain (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23340,7 +24088,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1957530961}
   - component: {fileID: 1957530962}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23424,7 +24172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1961271522}
   - component: {fileID: 1961271523}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23498,6 +24246,163 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1965978619
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1965978620}
+  - component: {fileID: 1965978621}
+  m_Layer: 6
+  m_Name: Floor (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1965978620
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1965978619}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.77, y: -3.2900047, z: -3.8340242}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1308945324}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1965978621
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1965978619}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300050, guid: 962e67ff7370f0c4492dca70b64f89e9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1979059396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1979059397}
+  - component: {fileID: 1979059399}
+  - component: {fileID: 1979059398}
+  m_Layer: 9
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1979059397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979059396}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1241249178}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1979059398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979059396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77ae3c18efe7d44169e4eb4c522842b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 4
+  instantDefeat: 0
+--- !u!61 &1979059399
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979059396}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.15, y: 0.15}
+  m_EdgeRadius: 0
 --- !u!1 &1984443100
 GameObject:
   m_ObjectHideFlags: 0
@@ -23507,7 +24412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1984443101}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23542,7 +24447,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1989895542}
   - component: {fileID: 1989895543}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: MovingPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23595,7 +24500,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1990346583}
   - component: {fileID: 1990346584}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23737,7 +24642,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2000714108}
   - component: {fileID: 2000714109}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23821,7 +24726,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2014184171}
   - component: {fileID: 2014184172}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Top Collider (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23879,7 +24784,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2021659824}
   - component: {fileID: 2021659825}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23963,7 +24868,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2030184454}
   - component: {fileID: 2030184455}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: nature_environment_01_15 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24047,7 +24952,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2034297460}
   - component: {fileID: 2034297461}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24105,7 +25010,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2038726850}
   - component: {fileID: 2038726851}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24274,7 +25179,7 @@ GameObject:
   - component: {fileID: 2049759365}
   - component: {fileID: 2049759367}
   - component: {fileID: 2049759366}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: FallingPlatform (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24346,7 +25251,7 @@ GameObject:
   - component: {fileID: 2052591034}
   - component: {fileID: 2052591036}
   - component: {fileID: 2052591035}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Bottom Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24430,7 +25335,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2059483461}
   - component: {fileID: 2059483462}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: GroundSprite (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24514,7 +25419,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2096176161}
   - component: {fileID: 2096176162}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24597,7 +25502,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2102493667}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floating Platform (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24631,7 +25536,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2103616913}
   - component: {fileID: 2103616914}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24715,7 +25620,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2113155600}
   - component: {fileID: 2113155601}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Wall Sprite (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24799,7 +25704,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2133165580}
   - component: {fileID: 2133165581}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24857,7 +25762,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2133728087}
   - component: {fileID: 2133728088}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24931,6 +25836,78 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &2138177938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2138177939}
+  - component: {fileID: 2138177941}
+  - component: {fileID: 2138177940}
+  m_Layer: 9
+  m_Name: HeadCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2138177939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2138177938}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.053, y: 0.197, z: 0}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1241249178}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2138177940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2138177938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc82cdaf9afaacc4cb6edb59630ffde8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  killPoints: 2
+--- !u!61 &2138177941
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2138177938}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &2139235736
 GameObject:
   m_ObjectHideFlags: 0
@@ -24940,7 +25917,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2139235737}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Floating Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}

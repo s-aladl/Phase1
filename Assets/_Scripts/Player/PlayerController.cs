@@ -56,8 +56,6 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //DontDestroyOnLoad(gameObject);
-
         startPos = transform.position;
         active = true;
         squib = GetComponent<Rigidbody2D>();
@@ -74,6 +72,8 @@ public class PlayerController : MonoBehaviour
         SetPointText();
 
     }
+
+
 
     // Update is called once per frame
     void Update()
@@ -96,7 +96,7 @@ public class PlayerController : MonoBehaviour
 
         if (transform.position.y < -2)
         {
-            SceneManager.LoadScene("Level-1");
+            SceneManager.LoadScene("Level-1 1");
         }
 
 
