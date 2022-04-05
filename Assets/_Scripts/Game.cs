@@ -5,7 +5,8 @@ using UnityEngine;
 public class Game : MonoBehaviour
 {
     public List<CollectableController> speedBoost = new List<CollectableController>();
-     public List<HealthController> healthBoost = new List<HealthController>();
+    public List<SpaceJunkCollector> collectJunk = new List<SpaceJunkCollector>();
+    public List<HealthController> healthBoost = new List<HealthController>();
 
 
     // Start is called before the first frame update
@@ -26,7 +27,12 @@ public class Game : MonoBehaviour
             speedBoost[i].Reset();
         }
 
-         for (int i = 0; i < healthBoost.Count; i++) {
+        for (int i = 0; i < collectJunk.Count; i++)
+        {
+            collectJunk[i].Reset();
+        }
+
+        for (int i = 0; i < healthBoost.Count; i++) {
             healthBoost[i].Reset();
         }
 
@@ -36,6 +42,11 @@ public class Game : MonoBehaviour
     public void AddCollectable(CollectableController collectableController) {
         speedBoost.Add(collectableController);
     } 
+
+    public void AddSpaceJunk(SpaceJunkCollector junkController)
+    {
+        collectJunk.Add(junkController);
+    }
 
 
      public void AddHealth(HealthController healthConroller) {

@@ -7,11 +7,14 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-      private int health=10;
-      private int startPoints=0;
+    private int health=10;
+    private int startPoints=0;
+
+    public int countSpaceJunk = 0;
+
     public bool active = true;
-public TextMeshProUGUI healthText;
-public TextMeshProUGUI pointText;
+    public TextMeshProUGUI healthText;
+    public TextMeshProUGUI pointText;
 
     float moveInput = 0;
     public int speed = 5;
@@ -35,7 +38,8 @@ public TextMeshProUGUI pointText;
     public bool respawn = false;
     public float timetorespawn = 2f;
     public float currentRespawnTime = 0;
-public Vector2 startPos;
+    
+    public Vector2 startPos;
     public Animations currentAnim;
     public Animator anim;
     public LayerMask Ground;
@@ -43,10 +47,16 @@ public Vector2 startPos;
     public SpriteRenderer rend;
     public bool jumpNow = false;
 
+    // Level Loader
+    public int iLevel;
+    public string sLevel;
+
+    public bool loadLevel = false;
+
     // Start is called before the first frame update
     void Start()
     {
-
+        //DontDestroyOnLoad(gameObject);
 
         startPos = transform.position;
         active = true;
@@ -61,7 +71,7 @@ public Vector2 startPos;
         lastYpos = transform.position.y;
 
         SetHealthText();
-                SetPointText();
+        SetPointText();
 
     }
 
@@ -86,7 +96,7 @@ public Vector2 startPos;
 
         if (transform.position.y < -2)
         {
-            SceneManager.LoadScene("Level1");
+            SceneManager.LoadScene("Level-1");
         }
 
 
@@ -155,32 +165,67 @@ public Vector2 startPos;
     }
 
     /*****************************************************************************/
-    // If the player touches the power up for speed boost
-    void OnTriggerEnter2D(Collider2D collision) {
-        if (collision.tag == "Collectable") {
+    // If the player touches the object, colliding with it
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        // For speed power up
+        if (collision.tag == "Collectable")
+        {
             SpeedUp();
             // Change look of character with the power up
             ChangeAnimation(Animations.Idle);
         }
 
-        if (collision.tag == "Collectable2") {
+        // For jump power up
+        if (collision.tag == "Collectable2")
+        {
             jumpUp();
         }
-        if (collision.tag=="HealthBoost"){
+
+        // For Health Boost
+        if (collision.tag == "HealthBoost")
+        {
             Healthup();
             SetHealthText();
-            
+
         }
-        
-        
+
+        // For space junk collector
+        if (collision.tag == "SpaceJunk")
+        {
+            junkCollector();
+        }
+
+        // Load next level
+        //GameObject collisionGameObject = collision.gameObject;
+
+        if ((collision.tag == "NextLevel") && (countSpaceJunk > 2))
+        {
+            LoadScene();
+        }
     }
-    
 
+    // Load Next Scene
+    void LoadScene()
+    {
+        if (loadLevel)
+        {
+            SceneManager.LoadScene(iLevel);
+        }
+        else
+        {
+            SceneManager.LoadScene(sLevel);
+        }
+    }
 
+    // Add collected space junk point
+    void junkCollector()
+    {
+        countSpaceJunk += 1;
+    }
 
-    
-
-       void Healthup(){
+    // Add health
+    void Healthup(){
            health=health+3;
        }
     
