@@ -24023,6 +24023,7 @@ MonoBehaviour:
   jumpNow: 0
   iLevel: 7
   sLevel: Level-2 SQUISH
+  rLevel: 4
   loadLevel: 0
 --- !u!114 &1992636419
 MonoBehaviour:
@@ -24036,6 +24037,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37d43a2a4105afb4fb441499f9d58eba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  health: 0
+  restarthealth: 0
+  countSpaceJunk: 0
+  active: 1
+  healthText: {fileID: 0}
+  pointText: {fileID: 0}
+  speed: 5
+  jumpForce: 6
+  isGrounded: 0
+  isRight: 1
+  instantDefeat: 0
+  isJumping: 0
+  isFalling: 0
+  lastYpos: 0
+  respawn: 0
+  timetorespawn: 2
+  currentRespawnTime: 0
+  startPos: {x: 0, y: 0}
+  currentAnim: 0
+  anim: {fileID: 0}
+  Ground:
+    serializedVersion: 2
+    m_Bits: 0
+  squib: {fileID: 0}
+  rend: {fileID: 0}
+  jumpNow: 0
+  iLevel: 0
+  sLevel: 
+  rLevel: 0
+  loadLevel: 0
+  killPoint: 2
   fireRate: 8
   Damage: 10
   whatToHit:

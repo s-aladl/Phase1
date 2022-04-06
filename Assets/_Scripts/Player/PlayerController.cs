@@ -53,6 +53,8 @@ public class PlayerController : MonoBehaviour
     // Level Loader
     public int iLevel;
     public string sLevel;
+    public int rLevel;
+
 
     public bool loadLevel = false;
 
@@ -97,10 +99,10 @@ public class PlayerController : MonoBehaviour
             return;
         }
 
-        if (transform.position.y < -2)
-        {
-            SceneManager.LoadScene("Level-1 SQUIB");
-        }
+       if (transform.position.y < -2)
+       {
+          SceneManager.LoadScene(rLevel);
+       }
 
 
         if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
@@ -204,22 +206,22 @@ public class PlayerController : MonoBehaviour
 
         if ((collision.tag == "NextLevel") && (countSpaceJunk > 2))
         {
-            LoadScene();
+             SceneManager.LoadScene(iLevel);
         }
     }
 
     // Load Next Scene
-    void LoadScene()
-    {
-        if (loadLevel)
-        {
-            SceneManager.LoadScene(iLevel);
-        }
-        else
-        {
-            SceneManager.LoadScene(sLevel);
-        }
-    }
+   void LoadScene()
+   {
+       if (loadLevel)
+       {
+        SceneManager.LoadScene(iLevel);
+       }
+      else
+     {
+        SceneManager.LoadScene(sLevel);
+     }
+   }
 
     // Add collected space junk point
     void junkCollector()

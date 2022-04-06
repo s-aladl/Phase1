@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class weapon : MonoBehaviour
+public class weapon : PlayerController
 {
+	public int killPoint=2;
    public float fireRate = 0;
 	public float Damage = 10;
 	public LayerMask whatToHit;
@@ -48,6 +49,7 @@ public class weapon : MonoBehaviour
 			if (hit.collider.gameObject.tag == "Enemy")
 			{
 				Destroy (hit.collider.gameObject);
+				Points(killPoint);
 				//SetPointText;
 				//SetHealthText;
 			}
