@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-    private int health=10;
+   // private int health=10;
     public int health;
     public int restarthealth;
     
