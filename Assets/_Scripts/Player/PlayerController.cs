@@ -7,7 +7,8 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-    private int health=10;
+    public int health;
+    public int restarthealth;
     private int startPoints=0;
 
     public int countSpaceJunk = 0;
@@ -96,7 +97,7 @@ public class PlayerController : MonoBehaviour
 
         if (transform.position.y < -2)
         {
-            SceneManager.LoadScene("Level-1 1");
+            SceneManager.LoadScene("Level-1 SQUIB");
         }
 
 
@@ -276,21 +277,21 @@ public class PlayerController : MonoBehaviour
         active = true; 
         squib.isKinematic = false;
         transform.position = startPos;
-        health=10;
+        health= restarthealth;
         startPoints=0;
         SetHealthText();
         SetPointText();
 
     }
 
-     void SetHealthText()
+    public void SetHealthText()
 	{
 		healthText.text = "Health: " + health.ToString();//keeps track of point count
 	
 		
 		
 	}
-     void SetPointText()
+    public void SetPointText()
 	{
 		pointText.text = "Score: " + startPoints.ToString();//keeps track of point count
 	
