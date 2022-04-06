@@ -13,7 +13,7 @@ public class weapon : MonoBehaviour
 
 	// Use this for initialization
 	void Awake () {
-		firePoint = transform.Find ("shooting");
+		firePoint = transform.Find ("weapon");
 		if (firePoint == null) {
 			Debug.LogError ("No firePoint? WHAT?!");
 		}
@@ -24,17 +24,21 @@ public class weapon : MonoBehaviour
 		if (fireRate == 0) {
 			if (Input.GetButtonDown ("Fire1")) {
 				Shoot();
+				//SetPointText;
+				//SetHealthText;
 			}
 		}
 		else {
 			if (Input.GetButton ("Fire1") && Time.time > timeToFire) {
 				timeToFire = Time.time + 1/fireRate;
 				Shoot();
+				//SetPointText;
+				//SetHealthText;
 			}
 		}
 	}
 	
-	void Shoot () {
+	public void Shoot () {
 		Vector2 mousePosition = new Vector2 (Camera.main.ScreenToWorldPoint (Input.mousePosition).x, Camera.main.ScreenToWorldPoint(Input.mousePosition).y);
 		Vector2 firePointPosition = new Vector2 (firePoint.position.x, firePoint.position.y);
 		RaycastHit2D hit = Physics2D.Raycast (firePointPosition, mousePosition-firePointPosition, 100, whatToHit);
@@ -44,10 +48,12 @@ public class weapon : MonoBehaviour
 			if (hit.collider.gameObject.tag == "Enemy")
 			{
 				Destroy (hit.collider.gameObject);
+				//SetPointText;
+				//SetHealthText;
 			}
+			
 		}
 	}
-
 
 
 }
