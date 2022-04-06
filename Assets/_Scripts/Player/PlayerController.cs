@@ -7,12 +7,8 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-    private Scene scene;
-
     private int health=10;
     private int startPoints=0;
-
-    public int jumpcount = 1;
 
     public int countSpaceJunk = 0;
 
@@ -39,7 +35,6 @@ public class PlayerController : MonoBehaviour
         Falling = 2,
         Walking = 3,
     }
-
     public bool respawn = false;
     public float timetorespawn = 2f;
     public float currentRespawnTime = 0;
@@ -61,9 +56,6 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        scene = SceneManager.GetActiveScene();
-        //Debug.Log("Name: " + scene.name);
-
         startPos = transform.position;
         active = true;
         squib = GetComponent<Rigidbody2D>();
@@ -107,25 +99,10 @@ public class PlayerController : MonoBehaviour
             SceneManager.LoadScene("Level-1 1");
         }
 
-        if(scene.name == "Level-1 1")
-        {
-            if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
-            {
-                jumpNow = true;
-            }
-        }
 
-        if(scene.name == "Level-2")
+        if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
-            if(jumpcount>0)
-            {
-                if(Input.GetKeyDown(KeyCode.Space))
-                {
-                    jumpNow = true;
-                    jumpcount = jumpcount - 1; 
-                }
-            }
-            
+            jumpNow = true;
         }
     }
 
@@ -138,12 +115,6 @@ public class PlayerController : MonoBehaviour
             isGrounded = false;
             squib.velocity = Vector2.up * jumpForce;
         }
-
-        if(isGrounded)
-        {
-            jumpcount = 1; 
-        }
-
         else
         {
             isGrounded = Physics2D.OverlapArea(new Vector2(transform.position.x - 0.5f, transform.position.y - 0.5f), 
