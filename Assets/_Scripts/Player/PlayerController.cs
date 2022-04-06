@@ -7,7 +7,10 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-   // private int health=10;
+    private Scene scene;
+
+    public int jumpcount = 1;
+
     public int health;
     public int restarthealth;
     
@@ -61,6 +64,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        scene = SceneManager.GetActiveScene();
         startPos = transform.position;
         active = true;
         squib = GetComponent<Rigidbody2D>();
@@ -104,15 +108,75 @@ public class PlayerController : MonoBehaviour
           SceneManager.LoadScene(rLevel);
        }
 
-
-        if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        if(scene.name == "Level-1 SQUIB")
         {
-            jumpNow = true;
+            if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+            {
+                jumpNow = true;
+            }
+        }
+
+        else if(scene.name == "Level-1 SQUIM")
+        {
+            if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+            {
+                jumpNow = true;
+            }
+        }
+
+        else if(scene.name == "Level-1 SQUISH")
+        {
+            if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+            {
+                jumpNow = true;
+            }
+        }
+
+        if(scene.name == "Level-2 SQUIB")
+        {
+            if(jumpcount>0)
+            {
+                if(Input.GetKeyDown(KeyCode.Space))
+                {
+                    jumpNow = true;
+                    jumpcount = jumpcount - 1; 
+                }
+            }
+            
+        }
+
+        else if(scene.name == "Level-2 SQUIM")
+        {
+            if(jumpcount>0)
+            {
+                if(Input.GetKeyDown(KeyCode.Space))
+                {
+                    jumpNow = true;
+                    jumpcount = jumpcount - 1; 
+                }
+            }
+            
+        }
+        else if(scene.name == "Level-2 SQUISH")
+        {
+            if(jumpcount>0)
+            {
+                if(Input.GetKeyDown(KeyCode.Space))
+                {
+                    jumpNow = true;
+                    jumpcount = jumpcount - 1; 
+                }
+            }
+            
         }
     }
 
     void FixedUpdate()
     {
+        if(isGrounded)
+        {
+            jumpcount = 1; 
+        }
         // Makes the character jump
         if(jumpNow)
         {
