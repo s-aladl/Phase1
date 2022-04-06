@@ -3737,8 +3737,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4b7cd6fdbb58e34bb52f43ccae41a40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteRenderer: {fileID: 0}
-  gameControl: {fileID: 0}
+  spriteRenderer: {fileID: 272098999}
+  gameControl: {fileID: 568596425}
 --- !u!61 &272098997
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14299,8 +14299,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4b7cd6fdbb58e34bb52f43ccae41a40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteRenderer: {fileID: 0}
-  gameControl: {fileID: 0}
+  spriteRenderer: {fileID: 1146746300}
+  gameControl: {fileID: 568596425}
 --- !u!61 &1146746298
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21467,12 +21467,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37d43a2a4105afb4fb441499f9d58eba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 0
-  restarthealth: 0
+  health: 2
+  restarthealth: 2
   countSpaceJunk: 0
   active: 1
-  healthText: {fileID: 0}
-  pointText: {fileID: 0}
+  healthText: {fileID: 52085241}
+  pointText: {fileID: 1651863076}
   speed: 5
   jumpForce: 6
   isGrounded: 0

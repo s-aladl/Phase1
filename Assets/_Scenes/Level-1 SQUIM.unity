@@ -8889,12 +8889,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37d43a2a4105afb4fb441499f9d58eba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 0
-  restarthealth: 0
+  health: 2
+  restarthealth: 2
   countSpaceJunk: 0
   active: 1
-  healthText: {fileID: 0}
-  pointText: {fileID: 0}
+  healthText: {fileID: 668438159}
+  pointText: {fileID: 1999137756}
   speed: 5
   jumpForce: 6
   isGrounded: 0

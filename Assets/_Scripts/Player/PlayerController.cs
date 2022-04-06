@@ -206,7 +206,7 @@ public class PlayerController : MonoBehaviour
 
         if ((collision.tag == "NextLevel") && (countSpaceJunk > 2))
         {
-             SceneManager.LoadScene(iLevel);
+            LoadScene(); 
         }
     }
 
