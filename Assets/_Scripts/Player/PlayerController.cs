@@ -11,8 +11,6 @@ public class PlayerController : MonoBehaviour
     public int restarthealth;
     private int startPoints=0;
 
-    private Scene scene;
-
     public int jumpcount = 1;
 
     public int countSpaceJunk = 0;
